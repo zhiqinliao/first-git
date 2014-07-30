@@ -1,1 +1,2 @@
-this is a test java doc
+this is a test java doc.
+fix a bug
